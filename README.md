@@ -1,8 +1,10 @@
 # setup
 to go your repos folder
-`git clone https://github.com/TheLonesomeChicken/Circare`
-`cd Circare`
-`source venv/bin/activate`
+```bash
+git clone https://github.com/TheLonesomeChicken/Circare
+cd Circare
+source venv/bin/activate
+```
 
 ## to start api
 for localhost:
