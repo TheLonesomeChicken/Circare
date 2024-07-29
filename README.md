@@ -1,3 +1,9 @@
+# setup
+to go your repos folder
+`git clone https://github.com/TheLonesomeChicken/Circare`
+`cd Circare`
+`source venv/bin/activate`
+
 ## to start api
 for localhost:
 `fastapi dev searchAPI.py`
