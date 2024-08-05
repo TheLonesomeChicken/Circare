@@ -1,7 +1,9 @@
+# Modded version of https://github.com/TheLonesomeChicken/Circare
+
 # setup
 to go your repos folder
 ```bash
-git clone https://github.com/TheLonesomeChicken/Circare
+git clone https://github.com/rapsacclion/Circare
 cd Circare
 source venv/bin/activate
 ```
@@ -13,6 +15,6 @@ for network:
 `fastapi dev searchAPI.py --host 0.0.0.0`
 
 ## test the api
-`http://127.0.0.1:8000/search?q=google`
+`http://127.0.0.1:8000/search?q=value`
 
-`q=google` in this case we are looking for `google` because thats what `q` is set to
+`q=value` would be searching for `value` in the above link
