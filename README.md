@@ -1,5 +1,3 @@
-# Modded version of https://github.com/TheLonesomeChicken/Circare
-
 # setup
 to go your repos folder
 ```bash
